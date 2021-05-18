@@ -28,7 +28,7 @@ Run with options (ignoring certain errors, changing settings):
 
 `flake8 --max-line-length=119 --ignore=F401 --exclude=tests`
 
-Options can be set in a config file (see `.flake8-example`)
+Options can be set in a config file `.flake8` (see `.flake8-example` for sample config)
 
 ## License
 
